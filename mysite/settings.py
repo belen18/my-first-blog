@@ -25,7 +25,7 @@ SECRET_KEY = '6cbb5-tanupakm#2d%=elelj=y8zm1@2nu*!vdf31-pmp_$rq7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['belen18.pythonanywhere.com']
 
 
 # Application definition
